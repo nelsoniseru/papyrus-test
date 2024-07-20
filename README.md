@@ -1,5 +1,5 @@
 * Cd into the project folder && yarn install
-* run 'npx ts-node src/migrate.ts' this command to migrate the user table 
+* run this command 'npx ts-node src/migrate.ts' to migrate the user table 
 * yarn run start:dev
 
 routes
